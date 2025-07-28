@@ -4,6 +4,10 @@ A simple, two-player Pong game built using **C++** and the **SFML** (Simple and 
 
 ---
 
+## Author: Eli Cohavi
+
+---
+
 ## 🕹️ Gameplay
 
 - **Player 1** (Left): Use `W` and `S` to move up and down.
