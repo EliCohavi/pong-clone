@@ -1,0 +1,14 @@
+# Ignore build files
+*.exe
+*.obj
+*.o
+*.log
+*.dll
+
+# VS Code settings
+.vscode/
+
+# SFML build folders
+build/
+bin/
+lib/
